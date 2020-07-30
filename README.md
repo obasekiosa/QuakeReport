@@ -27,6 +27,46 @@ Demo Images
 
 ![Alt text](demo-images/quake_report_icon.jpg?raw=true "ICON")
 
+
+
+
+
+
+
+![Alt text](demo-images/quake_report_home.jpg?raw=true "HOME")
+
+
+
+
+
+
+
+
+![Alt text](demo-images/quake_report_no_connection.jpg?raw=true "NO CONNECTION")
+
+
+
+
+
+
+
+
+![Alt text](demo-images/quake_report_intent_launch.jpg?raw=true "LAUNCHER")
+
+
+
+
+
+
+
+![Alt text](demo-images/quake_report_full_info_page.jpg?raw=true "MORE INFO")
+
+
+
+
+
+
+
 License
 -------
 
